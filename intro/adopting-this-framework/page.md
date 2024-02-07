@@ -12,7 +12,7 @@ How to get started with this framework.
 
 ## 1. Understand the framework
 
-Read through the [framework core concepts](/pscf/concepts/requirements-not-opinions) to understand how to frame the work of building security capabilities into your software delivery organisation.
+Read through the [framework core concepts](/pscf/concepts/security-requirements-not-security-opinions) to understand how to frame the work of building security capabilities into your software delivery organisation.
 
 ## 2. Clarify your organisation's compliance requirements
 
