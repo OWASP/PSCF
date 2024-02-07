@@ -89,7 +89,7 @@ This capability involves verifying the integrity of software artifacts from crea
 
 {% responsibility capability_id="PSCF-SBD-AI" / %}
 
-## Data Intergrity [PSCF&#8209;SBD&#8209;DI]
+## Data Integrity [PSCF&#8209;SBD&#8209;DI]
 
 _The capability to use data in your product that is obtained from and stored in trusted sources and evaluate any changes_
 
