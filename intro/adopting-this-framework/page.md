@@ -34,6 +34,8 @@ The framework uses a 1-5 scale of effectiveness for each capability across three
 * An information issue that work on data gathering, analysis and presentation can solve by putting actionable information in front of the right people
 * An opportunity issue requiring an investment in automation or in additional people to carry out the required security capabilities during product delivery
 
+There is an example appraisal [Google Sheet](https://docs.google.com/spreadsheets/d/1GiQSePaFkY-wFj3RP3VUkZA81Pqzyhn9x78fSL2OTk8/edit#gid=0) included in the project that you can make a copy of to use for your own appraisal (simply replace the random numbers with your own).
+
 The appraisal gives you all the information you need for the next step.
 
 ## 5. Plan your product security programme
