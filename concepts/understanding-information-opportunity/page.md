@@ -95,4 +95,4 @@ As with information, the PSCF project team aren't aware of a widely-used standar
 2. **Reactive**: _Activity done in response to issues_
 3. **Scheduled**: _Activity on a regular cadence_
 4. **Proactive**: _Activity done ahead of issues_
-5. **Low-impace**: _Automated or an efficient team activity_
+5. **Low-impact**: _Automated or an efficient team activity_
