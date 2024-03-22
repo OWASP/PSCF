@@ -141,6 +141,8 @@ This capability involves creating, storing, accessing, and disposing of secrets 
 
 _The capability to securely deploy a product and its components from a known set of artefacts_
 
+{% video src="https://www.youtube.com/embed/vUZ5K27Mo7E?si=XgYOujKuvjDFyiXz" /%}
+
 ### Capability Overview
 
 The deployment process is a critical stage in the software development lifecycle, where software is released to production environments. A secure and efficient deployment process is essential to ensure the reliability and availability of software products.
