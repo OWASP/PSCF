@@ -2,7 +2,7 @@
 
 # OWASP Product Security Capability Framework (PSCF)
 
-https://prods.ec/
+https://prodsec.owasp.org/
 
 The OWASP Product Security Capability Framework (PSCF) is a comprehensive guide designed to frame and enhance the security of software products. By leveraging a structured approach to identify, implement, and manage security capabilities, the PSCF aims to improve product security and ensure compliance with regulatory and industry standards.
 
@@ -44,4 +44,4 @@ The OWASP Product Security Capability Framework is open source and free to use. 
 
 ## Acknowledgements
 
-We extend our gratitude to the numerous contributors and the security community for their invaluable input and feedback in developing this framework. Together, we strive to make software products more secure, protecting organizations and their customers from security threats. For detailed information and involvement, visit [our website](https://prods.ec/).
+We extend our gratitude to the numerous contributors and the security community for their invaluable input and feedback in developing this framework. Together, we strive to make software products more secure, protecting organizations and their customers from security threats. For detailed information and involvement, visit [our website](https://prodsec.owasp.org/).
