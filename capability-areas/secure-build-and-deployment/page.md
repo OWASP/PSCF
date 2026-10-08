@@ -12,7 +12,7 @@ nextjs:
 
 Secure Build & Deployment is a vital component in the product development pipeline, ensuring that the security measures ingrained during the design and implementation phases are accurately translated into the final product. This practice involves rigorous procedures and checks to maintain the integrity and security of the product from the build environment to its deployment in a live setting. It's about creating a fortified bridge between the development of secure code and its operation in the real world, ensuring that this transition is seamless, secure, and devoid of vulnerabilities that can be exploited.
 
-These capabilities are pivotal for automating and reinforcing security measures throughout the build and deployment processes. By integrating robust security practices into these stages, organizations can safeguard their products against configuration errors, unauthorized access, and other security threats that can compromise the product post-deployment.
+These capabilities are pivotal for automating and reinforcing security measures throughout the build and deployment processes. By integrating robust security practices into these stages, organisations can safeguard their products against configuration errors, unauthorised access, and other security threats that can compromise the product post-deployment.
 
 ### Benefits
 
@@ -45,7 +45,7 @@ Dependency management is crucial in modern software development due to the exten
 
 ## Build Process [PSCF&#8209;SBD&#8209;BP]
 
-_The capability to securely assemble product artefacts from their codebases and dependencies_
+_The capability to securely assemble product artifacts from their codebases and dependencies_
 
 {% video src="https://www.youtube.com/embed/FuVi71PzYjw?si=jbBdhb-NmDG15Z4-" /%}
 
@@ -67,7 +67,7 @@ The build process in software development is a critical stage where source code 
 
 ## Artifact Integrity [PSCF&#8209;SBD&#8209;AI]
 
-_The capability to use product artefacts from trusted sources and evaluate any that change_
+_The capability to use product artifacts from trusted sources and evaluate any that change_
 
 {% video src="https://www.youtube.com/embed/cavvIhxua7g?si=xNstMvVTrQ-Y998E" /%}
 
@@ -91,7 +91,7 @@ This capability involves verifying the integrity of software artifacts from crea
 
 ## Data Integrity [PSCF&#8209;SBD&#8209;DI]
 
-_The capability to use data in your product that is obtained from and stored in trusted sources and evaluate any changes_
+_The capability to use data in your product that is obtained from and stored in trusted sources, evaluate any changes and correct any issues_
 
 {% video src="https://www.youtube.com/embed/WEvcK80i2NY?si=ZLjO8VJrf85Eox-p" /%}
 
@@ -99,7 +99,7 @@ _The capability to use data in your product that is obtained from and stored in 
 
 Data integrity is paramount in ensuring the accuracy, reliability, and consistency of data throughout its lifecycle. In the context of software development, it is crucial for maintaining the trustworthiness of the data used and produced by applications.
 
-This capability focuses on ensuring that data is not altered in an unauthorized or unexpected manner. It encompasses strategies to protect data from corruption, unauthorized access, and errors. Effective data integrity practices are essential for complying with data protection regulations and for maintaining the overall quality of software products.
+This capability focuses on ensuring that data is not altered in an unauthorised or unexpected manner. It encompasses strategies to protect data from corruption, unauthorised access, and errors. Effective data integrity practices are essential for complying with data protection regulations and for maintaining the overall quality of software products.
 
 ### Compliance Requirement
 
@@ -121,9 +121,9 @@ _The capability to restrict access to product secrets to only when required by t
 
 ### Capability Overview
 
-Secrets management is a critical aspect of software security, involving the safe handling of sensitive information like passwords, keys, and tokens. Proper management of these secrets is essential to protect against data breaches and unauthorized access.
+Secrets management is a critical aspect of software security, involving the safe handling of sensitive information like passwords, keys, and tokens. Proper management of these secrets is essential to protect against data breaches and unauthorised access.
 
-This capability involves creating, storing, accessing, and disposing of secrets in a secure manner. It requires a comprehensive approach to ensure that secrets are not exposed to unauthorized individuals or systems and are used only for their intended purposes. Effective secrets management is a fundamental part of securing software systems and protecting sensitive information.
+This capability involves creating, storing, accessing, and disposing of secrets in a secure manner. It requires a comprehensive approach to ensure that secrets are not exposed to unauthorised individuals or systems and are used only for their intended purposes. Effective secrets management is a fundamental part of securing software systems and protecting sensitive information.
 
 ### Compliance Requirement
 
@@ -139,7 +139,7 @@ This capability involves creating, storing, accessing, and disposing of secrets 
 
 ## Deployment Process [PSCF&#8209;SBD&#8209;DP]
 
-_The capability to securely deploy a product and its components from a known set of artefacts_
+_The capability to securely deploy a product and its components from a known set of artifacts_
 
 {% video src="https://www.youtube.com/embed/vUZ5K27Mo7E?si=XgYOujKuvjDFyiXz" /%}
 

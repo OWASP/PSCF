@@ -52,7 +52,7 @@ All of the security capablities in the PSCF have an aspect of information, or da
 
 * Let the people responsible for performing the capability know that it now needs doing
 * Feedback to the people responsible that the tasks required for the capability have been carried out satisfactorily
-* Alert the person accountable for ensuring the capability is carried out that the reponsible people aren't doing it
+* Alert the person accountable for ensuring the capability is carried out that the responsible people aren't doing it
 
 Good, high quality data is frequently lacking for security in software delivery so this is an aspect of a capabilty's effectiveness that needs closely looking at as part of an appraisal.
 

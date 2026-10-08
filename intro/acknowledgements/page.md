@@ -11,7 +11,7 @@ The PSCF project team would like to thank the following people and companies for
 
 ## People
 
-* **Martin Walsh** - [Chief Product Officer, Einride](https://www.linkedin.com/in/martin-walsh-7582235/)
+* **Martin Walsh** - [Chief Product and Technology Officer, Pod](https://www.linkedin.com/in/martin-walsh-7582235/)
 * **Alex Strachan** - [Director, Turner & Townsend](https://www.linkedin.com/in/strachanalex/)
 
 ## Companies

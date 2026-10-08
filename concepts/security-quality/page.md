@@ -16,7 +16,7 @@ This framework uses a rigorous definition of quality for software products, the 
 
 ### ISO25010 Software Product Quality Model
 
-![A diagram showing the ISO25010 Software Product Quality Model with quality characteristics of Functional Suitability, Performance Efficiency, Compatibility, Usability, Reliability, Security, Maintainability, Flexibility and Safey](/images/iso25010-software-product-quality-model.png)
+![A diagram showing the ISO25010 Software Product Quality Model with quality characteristics of Functional Suitability, Performance Efficiency, Compatibility, Usability, Reliability, Security, Maintainability, Flexibility and Safety](/images/iso25010-software-product-quality-model.png)
 
 For reasons not known to the PSCF project team, this model is almost unheard of in the software delivery world. The lack of awareness is very unfortunate because the ISO quality model is comprehensive and extremely helpful in defining the things that matter for a software product.
 

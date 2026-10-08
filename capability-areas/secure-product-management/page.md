@@ -10,18 +10,18 @@ nextjs:
 
 ## Area Overview
 
-Secure Product Management is a cornerstone of product development and lifecycle management, ensuring that security is not an afterthought but a fundamental, integrated aspect from inception to decommissioning. This proactive stance is essential in today’s fast-paced and threat-laden digital environment. By embedding security into the product management process, organizations can create robust, reliable products that not only meet but exceed the evolving expectations and needs of customers and stakeholders.
+Secure Product Management is a cornerstone of product development and lifecycle management, ensuring that security is not an afterthought but a fundamental, integrated aspect from inception to decommissioning. This proactive stance is essential in today’s fast-paced and threat-laden digital environment. By embedding security into the product management process, organisations can create robust, reliable products that not only meet but exceed the evolving expectations and needs of customers and stakeholders.
 
 These capabilities are critical for maintaining the integrity, confidentiality, and availability of products throughout their lifecycle. Secure Product Management is not merely about safeguarding against threats but also about building a resilient framework that can adapt and evolve with emerging technologies and changing threat landscapes.
 
 ### Benefits
 
 * **Robust Security Posture:** Integrating security into the product management lifecycle enhances the overall security posture, reducing vulnerabilities and exposure to threats.
-* **Lifecycle Approach:** Emphasizes the importance of considering security at every stage of the product lifecycle, from design to decommissioning, ensuring comprehensive protection.
+* **Lifecycle Approach:** Emphasises the importance of considering security at every stage of the product lifecycle, from design to decommissioning, ensuring comprehensive protection.
 * **Market Competitiveness:** Products designed with security in mind meet the high standards demanded by customers and regulations, giving a competitive edge in the market.
 * **Resilience and Reliability:** Secure Product Management ensures that products are not just secure but also resilient to disruptions, maintaining functionality and reliability even when faced with threats.
 
-##  Recommended Components [PSCF&#8209;SPM&#8209;RC]
+## Recommended Components [PSCF&#8209;SPM&#8209;RC]
 
 _The capability to evaluate and select secure recommended components suitable for use in the organisation's products_
 
@@ -29,7 +29,7 @@ _The capability to evaluate and select secure recommended components suitable fo
 
 ### Capability Overview
 
-The strategic selection and management of recommended components within an organization's product development process are crucial for maintaining a secure and efficient software development lifecycle. Recommended components, encompassing a variety of third-party technologies such as databases, cloud-native services, and operating systems, form the backbone of many modern software products. Their importance lies not only in the functionality they provide but also in the potential security risks they pose if not properly selected and managed. The process of evaluating and selecting these components ensures that they align with the organization's security standards and operational needs, thereby mitigating risks associated with external dependencies.
+The strategic selection and management of recommended components within an organisation's product development process are crucial for maintaining a secure and efficient software development lifecycle. Recommended components, encompassing a variety of third-party technologies such as databases, cloud-native services, and operating systems, form the backbone of many modern software products. Their importance lies not only in the functionality they provide but also in the potential security risks they pose if not properly selected and managed. The process of evaluating and selecting these components ensures that they align with the organisation's security standards and operational needs, thereby mitigating risks associated with external dependencies.
 
 ### Compliance Requirement
 
@@ -43,7 +43,7 @@ The strategic selection and management of recommended components within an organ
 
 {% responsibility capability_id="PSCF-SPM-RC" / %}
 
-##  Recommended Shared Security Services [PSCF&#8209;SPM&#8209;RSS]
+## Recommended Shared Security Services [PSCF&#8209;SPM&#8209;RSS]
 
 _The capability to evaluate and select shared security services suitable for use in the organisation's products_
 
@@ -51,7 +51,7 @@ _The capability to evaluate and select shared security services suitable for use
 
 ### Capability Overview
 
-In the realm of product security, the use of shared security services is increasingly becoming a central strategy for organizations aiming to protect their digital assets effectively. These services, such as Identity Management Platforms (IDP), DDoS Protection services, and Security Testing tools, play a vital role in enhancing the security posture of software products. The correct selection and integration of these services are paramount, as they directly influence the security capabilities of the products they protect. A unified approach to selecting these services ensures that security is consistently applied across all products, thereby reducing the complexity and potential gaps in security coverage.
+In the realm of product security, the use of shared security services is increasingly becoming a central strategy for organisations aiming to protect their digital assets effectively. These services, such as Identity Management Platforms (IDP), DDoS Protection services, and Security Testing tools, play a vital role in enhancing the security posture of software products. The correct selection and integration of these services are paramount, as they directly influence the security capabilities of the products they protect. A unified approach to selecting these services ensures that security is consistently applied across all products, thereby reducing the complexity and potential gaps in security coverage.
 
 ### Compliance Requirement
 
@@ -65,7 +65,7 @@ In the realm of product security, the use of shared security services is increas
 
 {% responsibility capability_id="PSCF-SPM-RSS" / %}
 
-##  Delivery Metrics [PSCF&#8209;SPM&#8209;DM]
+## Delivery Metrics [PSCF&#8209;SPM&#8209;DM]
 
 _The capability to quantitatively evaluate the efficiency of delivery capabilities_
 
@@ -87,7 +87,7 @@ Delivery metrics in software product management are essential for balancing the 
 
 {% responsibility capability_id="PSCF-SPM-DM" / %}
 
-##  Quality Metrics [PSCF&#8209;SPM&#8209;QM]
+## Quality Metrics [PSCF&#8209;SPM&#8209;QM]
 
 _The capability to quantitatively evaluate all aspects of your product's quality_
 
@@ -109,7 +109,7 @@ Quality metrics in software development are critical for ensuring that products 
 
 {% responsibility capability_id="PSCF-SPM-QM" / %}
 
-##  Product Operating Model [PSCF&#8209;SPM&#8209;POM]
+## Product Operating Model [PSCF&#8209;SPM&#8209;POM]
 
 _The capability to analyse your products and define their scope, processes and operating requirements across their lifecycle_
 
@@ -131,9 +131,11 @@ The Product Operating Model is a critical aspect of software product management,
 
 {% responsibility capability_id="PSCF-SPM-POM" / %}
 
-##  Minimum Application Requirements For Security [PSCF&#8209;SPM&#8209;MAR]
+## Minimum Application Requirements For Security [PSCF&#8209;SPM&#8209;MAR]
 
-_The capability to evaluate and select a list of minimum security requirements suitable for use in the organisation's products_
+_The capability to evaluate and define a list of minimum security requirements suitable for use in the organisation's products_
+
+_See also: the [OWASP Application Security Verification Standard (ASVS)](https://owasp.org/www-project-application-security-verification-standard/) and, for mobile applications, the [Mobile Application Security Verification Standard (MASVS)](https://mas.owasp.org/MASVS/)._
 
 {% video src="https://www.youtube.com/embed/Z-aIksPUGVg?si=nZ6aDAWUHJMZfMkv" /%}
 
