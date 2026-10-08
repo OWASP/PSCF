@@ -275,7 +275,7 @@ _The capability to analyse the business value of products and the effects securi
 
 ### Capability Overview
 
-Analyzing the business value of products and the impact of security disruptions centres around the vital process of Business Impact Assessment (BIA) within a product delivery organisation.
+Analysing the business value of products and the impact of security disruptions centres around the vital process of Business Impact Assessment (BIA) within a product delivery organisation.
 
 This capability involves assessing how different levels of security incidents can affect the value and operations of a product. A crucial aspect of BIA is determining the appropriate level of detail for the assessment, ensuring it's sufficient to understand the impact without losing sight of the overall business value. Another key factor is the involvement of someone who can represent and articulate the business interests effectively. This person should have an in-depth understanding of the product or service to address potential 'what if' scenarios. The choice of scenarios to be discussed in the BIA is also critical. While it's not necessary to cover every possible scenario, the focus should be on those most relevant and likely to impact the business, ensuring a thorough and meaningful assessment.
 
