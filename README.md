@@ -1,47 +1,33 @@
+[![OWASP Labs](https://img.shields.io/badge/owasp-incubator%20project-blue)](https://owasp.org/other_projects/)
+[![GitHub Release](https://img.shields.io/github/release/OWASP/PSCF)](https://github.com/OWASP/PSCF/releases)
+[![Follow on Twitter](https://img.shields.io/twitter/follow/owasppscf.svg?logo=twitter)](https://twitter.com/owasppscf)
 [![OpenSSF Best Practices](https://www.bestpractices.dev/projects/8385/badge)](https://www.bestpractices.dev/projects/8385)
 
-# OWASP Product Security Capability Framework (PSCF)
 
-https://prods.ec/
+## The OWASP Product Security Capability Framework (PSCF) 
+This is the **OWASP framework** for building security capabilities into your product delivery process and teams. 
 
-The OWASP Product Security Capability Framework (PSCF) is a comprehensive guide designed to frame and enhance the security of software products. By leveraging a structured approach to identify, implement, and manage security capabilities, the PSCF aims to improve product security and ensure compliance with regulatory and industry standards.
+The main website for the PSCF is on [Prods.ec](https://prods.ec/) and includes many more details about the Framework along with explanatory videos.
 
-## Introduction
+We created the Product Security Capability Framework to provide a clear way of thinking about software product security and the delivery activities that lead to building and maintaining the right level of security for your customers and your organisation.
 
-Security is a critical aspect of software product quality. The OWASP PSCF provides a meta-analysis across various regulatory frameworks and industry standards to outline best practices in product security. This framework is intended for organizations looking to elevate their security posture through a systematic and evidence-based approach.
+This framework is designed to be the foundation of:
 
-## Framework Core Concepts
+ - Your point-in-time appraisals of current security capability
+ - The security policy defining how your organisation works to build secure products
+ - Your strategic product security programme for continuous improvement
 
-- **Security Requirements, Not Security Opinions**: The PSCF is built on the foundation of security requirements derived from a thorough analysis of regulatory frameworks and industry standards, avoiding subjective opinions.
-- **Capabilities Drive Secure Product**: By focusing on fundamental security capabilities, the PSCF ensures that product delivery meets the highest security standards.
-- **Understanding, Information, & Opportunity**: Emphasizes the importance of knowledge and awareness in implementing security measures effectively.
-- **Accountability & Responsibility**: Assigns clear accountability and responsibilities within the organization to maintain a high level of security.
+The framework currently consists of six (6) process areas and thirty-six (36) capabilities. 
 
-## Framework Capability Areas
+<br>
 
-1. **Risk Management**: Identifies, assesses, and mitigates risks to enhance product security and support business objectives.
-2. **Secure Product Management**: Ensures that product management practices incorporate security considerations from the outset.
-3. **Secure Product Implementation**: Guides the implementation phase to integrate security measures seamlessly.
-4. **Secure Build & Deployment**: Focuses on secure methodologies for building and deploying software products.
-5. **Quality Control**: Establishes quality control measures to maintain security standards throughout the product lifecycle.
-6. **Operational Visibility**: Enhances visibility into operations to detect and respond to security threats promptly.
+[![PSCF ](https://raw.githubusercontent.com/OWASP/www-project-product-security-capability-framework/main/assets/images/pscf-meta-analysis.png)](https://prods.ec/)
+<br>
+<br>
 
-## Adopting the Framework
 
-Implementing the PSCF in your organization involves:
+The current 1.0 version of the framework is available [here](https://docs.google.com/spreadsheets/d/1GiQSePaFkY-wFj3RP3VUkZA81Pqzyhn9x78fSL2OTk8/edit#gid=0) in Google Sheets and anyone with can comment and contribute there.
 
-1. **Understanding Your Compliance Obligations**: Identify both external and internal compliance obligations relevant to your organization.
-2. **Evaluating Your Security Capabilities**: Assess your current security capabilities against the PSCF to identify areas for improvement.
-3. **Continuous Capability Improvement**: Implement a process for ongoing evaluation and enhancement of security capabilities.
+The Sheet allows someone to do an assessment of their own organisation's capabilities and get a report. 
 
-## Contributing
-
-We welcome contributions from the community to further enhance the PSCF. Whether you have suggestions for improvement, new capabilities to add, or want to share your implementation experiences, your input is valuable to us.
-
-## Licensing
-
-The OWASP Product Security Capability Framework is open source and free to use. It is licensed under the [Creative Commons Attribution-ShareAlike 3.0 license](https://creativecommons.org/licenses/by-sa/3.0/).
-
-## Acknowledgements
-
-We extend our gratitude to the numerous contributors and the security community for their invaluable input and feedback in developing this framework. Together, we strive to make software products more secure, protecting organizations and their customers from security threats. For detailed information and involvement, visit [our website](https://prods.ec/).
+The full text and multimedia site is available on [Prods.ec](https://prods.ec/)
